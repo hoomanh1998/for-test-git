@@ -1,1 +1,2 @@
 for test git
+this is new feature for git
