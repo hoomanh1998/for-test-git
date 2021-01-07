@@ -1,2 +1,4 @@
 for test git
 this is new feature for git
+
+we are adding new functionality for our application as we described below:
